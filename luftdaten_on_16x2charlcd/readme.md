@@ -1,4 +1,4 @@
-## luftdaten_to_charlcd
+# luftdaten_to_charlcd
 
 [luftdaten_to_charlcd.py](luftdaten_to_charlcd.py) is a script that lets your weather data - which you collect with your NodeMCU - display on an [Adafruit 16x2 CharLCD](https://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi/overview) which runs on a RaspberryPi.
 
@@ -16,7 +16,7 @@ python3 luftdaten_to_charlcd.py
 ```
 By default, in the first line of your charLCD you will see the temperature in Celcsius as well as the air pressure in mbar. The second line shows the time (in 24h format) and date (in yyyy-mm-dd).
 
-# Possible future functionality
+### Possible future functionality
 
 * Toggling between Fahrenheit/Celsius, mbar/Pa, as well as 24h / 12h time format, background lighting color, refresh rate
 * make use of the cursor buttons on the 16x2 plate, maybe for toggling
