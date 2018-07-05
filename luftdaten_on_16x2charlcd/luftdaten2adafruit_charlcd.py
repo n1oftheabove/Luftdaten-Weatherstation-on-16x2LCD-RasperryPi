@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# created by n1oftheabove, see github.com/n1oftheabove
+# created by n1oftheabove, see github.com/n1oftheabove, referencing appreciated.
 
 import time
 
